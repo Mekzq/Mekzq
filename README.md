@@ -12,7 +12,7 @@
 <p> My name is Mek Zhi Qing. Currently a forth year student pursuing Bachelor of Computer Science (Bioinformatics) in Universiti Teknologi Malaysia (UTM). </p>
 🌏 I am from Johor Bahru, Malaysia.<br><br>
 ☀ I love both sunrise and sunset.<br><br>
-✉️  You can contact me at [mekqing@graduate.utm.my](mailto:mekqing@graduate.utm.my).
+✉️  You can contact me at <a href="mailto:mekqing@graduate.utm.my">mekqing@graduate.utm.my</a>.
 
 <!--
 **Mekzq/Mekzq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
